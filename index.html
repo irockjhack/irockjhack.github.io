@@ -17,4 +17,31 @@
 		</div>
 	</div>
 </body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+	$.getJSON("assets/data/data.json", function(data) {
+		console.log(data);
+	})
+
+	function getAge(dateString) {
+	    var today = new Date();
+	    var birthDate = new Date(dateString);
+	    var age = today.getFullYear() - birthDate.getFullYear();
+	    var m = today.getMonth() - birthDate.getMonth();
+	    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+	        age--;
+	    }
+	    return age;
+	}
+
+	String.prototype.capitalize = function(allWords) {
+	   return (allWords) ? // if all words
+	      this.split('_').map(word => word.capitalize()).join(' ') : //break down phrase to words then  recursive calls until capitalizing all words
+	      this.charAt(0).toUpperCase() + this.slice(1); // if allWords is undefined , capitalize only the first word , mean the first char of the whole string
+	}
+
+	console.log('age: ' + getAge('1988/08/07'));
+	console.log("programming".capitalize());
+ 	console.log("company_name".capitalize(true));
+</script>
 </html>

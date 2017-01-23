@@ -1,0 +1,239 @@
+{
+	"personal_particulars": 
+	{
+		"personal_information": 
+		{
+			"first_name": "John Michael",
+			"last_name": "Lagman",
+			"middle_name": "Ticio",
+			"tag_lines": "Web | Graphics | VoIP | Open-source",
+			"birthdate": "August 7, 1988",
+			"contact_number": "Available upon request",
+			"email_address": "kcahj [undesrcore] 87 [at] yahoo [dot] com",
+			"address": "Cabalantian, Bacolor, Pampanga",
+			"marital_status": "Single",
+			"height": "5'5“",
+			"weight": "123 lbs.",
+			"religion": "Roman Catholic",
+			"nationality": "Filipino",
+			"languages_spoken": "Pampango, Tagalog, English"
+		},
+		"hobbies": {
+			"social": "Facebook/Social Media, Hanging out with friends, Traveling, Politics",
+			"technology": "Smartphones, Tech Sites and Blogs",
+			"past_time": "Movies, TV Series, Music, Books",
+			"others": "Basic Photography"
+		},
+		"character_references": "Available upon request"
+	},
+	"career_information": 
+	{
+		"general_career_objective": "To be associated in an institution that will endow a huge advancement on my profession, provide career development and challenge my utmost abilities into excellence as I render and explore my expertise as an IT professional, educator and technology enthusiast with focus on software development, project management and system/network administration.",
+		"career_expertise_and_skills": 
+		{
+			"programming": "VB6, VB.NET, Turbo C, C++, Java, Android, Ruby",
+			"web_scripting": "HTML, JavaScript, PHP, JQuery, Ruby on Rails, CSS",
+			"operating_systems": "Windows, Linux [CentOS], Mac OSX",
+			"ms_office_applications": "Word, Excel, PowerPoint, Visio, Access",
+			"graphics": "Adobe: Photoshop",
+			"databases": "MS Access, MySQL",
+			"voip": "SIP, Asterisk, AEL",
+			"system_administration": "Shell Scripting, Chef, Ansible, Puppet, Git, SVN",
+			"virtualization": "VirtualBox, VMWare, Parallel, KVM, Vagrant",
+			"hardware": "Basic Networking PC Assembly and Troubleshooting, OS Installations"
+
+		},
+		"employment_history":
+		[
+			{
+				"company_name": "Synergia BPO Solutions, Inc.",
+				"position": "Senior Software Engineer",
+				"company_address": "3/F B288 Prosperity Bldg., Fil-Am Friendship Highway, Brgy. Anunas, Riverside Subd., Angeles City",
+				"role": [
+					{
+						"role_tile": "Team Leader (Automation and Debugging Team)",
+					"role_description": "Leads, coaches, schedules tasks and projects for members (5). Reviews and monitors progress, leads testing and code reviews, deals with clients requests for enhancements, changes, new projects and due dates. Decision-making and team managements are main responsibilities."
+					},
+					{
+						"role_tile": "Senior Software Engineer",
+						"role_description": "Handles development and operations tasks like system administration for Git, other projects such as Chef, Vagrant, KVM, maintain servers for development use. Works on open source technologies and Linux environment, virtualizations, web development and VoIP technologies."
+					},
+					{
+						"role_tile": "Development Leader (Dev Department)",
+						"role_description": "In charge of development issues and approves workflows, requests, directly involved with company management. Also has an administrative functions and Recruitment process"
+					}
+				]	
+			},
+			{
+				"company_name": "Freelancing Services",
+				"position": "Virtual Asst./IT Support",
+				"company_address": "",
+				"inclusive_dates": "May 2012 - Present",
+				"role": [
+					{
+						"role_tile": "Virtual Assitant",
+						"role_description": "Provides assistance and virtual work for a client in remote for some clerical works done in Excel and PowerPoint, with minimal graphics designing."
+					},
+					{
+						"role_tile": "IT Support",
+						"role_description": "network database, system maintenance for a hotel in Sn. Fdo (P) for their in-house legacy system (VB6 and MySQL) for Hotel Management and Billing System."
+					},
+					{
+						"role_tile": "Software Developer",
+						"role_description": "for a web based user interfaces and emails for different clients."
+					}
+				]
+			},
+			{
+				"company_name": "Don Honorio Ventura Technological State University",
+				"position": "Instructor 1",
+				"company_address": "Bacolor, Pampanga",
+				"inclusive_dates": "July 2011 – March 2012",
+				"role": [
+					{
+						"role_tile": "College Instructor",
+						"role_description": "preparing and teaching IT Professional Subjects such as Fundamentals and Advanced in C++ Programming, Business Application Software, Visual Basic 6.0/.NET Programming, Software Engineering Subject, Database Programming using Microsoft Access & MySQL, Data Structures and Algorithm, Basic Web Programming. Also was in-charge of the computer laboratory and some campus preparation for events."
+					}
+				]
+			},
+			{
+				"company_name": "National Telecommunications Comission - Licensee Department",
+				"position": "On-the-job Trainee",
+				"company_address": "SACOP, City of Sn. Fernando, Pampanga",
+				"inclusive_dates": "April 2008 - June, 2008",
+				"role": [
+					{
+						"role_tile": "Encoder",
+						"role_description": "processes applications and other record keeping for the commissions licensing of communicaiton mediums. Access records of applicants (new and renewal) thru MS Access database, file records and maintain hard copies."
+					}
+				]
+			}
+		]
+	},
+	"educational_background": 
+	{
+		"primary_school": 
+		{
+			"name": "Buensuceso Elementary School",
+			"address": "Buensuceso, Arayat, Pampanga",
+			"year_graduated": "2001"
+		},
+		"secondary_school":
+		{
+			"name": "Don Jesus Gonzales High School",
+			"address": "Pandacaqui Resettlement, Mexico, Pampanga",
+			"year_graduated": "2005"
+		},
+		"tertiary_school":
+		{
+			"name": "Don Honorio Ventura Technological State University",
+			"address": "Bacolor, Pampanga",
+			"year_graduated": "2009"
+		},
+		"post_graduate":
+		{
+			"name": "Bulacan State University",
+			"address": "Malolos City, Bulacan",
+			"units_earned": "36 Units"
+		}
+	},
+	"other_credentials": {
+		"awards_and_achievements":
+		[
+			{
+				"title": "Employee of the Year",
+				"date": "December 2014",
+				"address": "Angeles City"
+			},
+			{
+				"title": "3rd Place Best in Thesis",
+				"date": "March 2009",
+				"address": "DHVTSU, Bacolor, Pampanga"
+			},
+			{
+				"title": "Dean's Lister",
+				"date": "2nd Semester (AY 2007-2008), 1st Semester (AY 2008-2009)",
+				"address": "DHVTSU, Bacolor, Pampanga"
+			},
+			{
+				"title": "6th Place (High School)",
+				"date": "April 2005",
+				"address": "DJGHS, Pandacaqui, Mexico, Pampanga"
+			}
+		],
+		"government_issued_license": 
+		[
+			{
+				"name": "Career Service Professional Examination",
+				"date": "June 29, 2010",
+				"address": "PHS, City of Sn. Fernando, Pampanga"
+			}
+		],
+		"seminars_attender": 
+		[
+			{
+				"title": "EGLOBIO Training – Series of Seminars",
+				"subtitle": "HTML5, Internet of Things, 3D Animation, Graphics Design, Ethical Hacking, LinQ",
+				"address": "Ever Gotesco Mall Cinema 4, Quezon City",
+				"date": "March 1, 2014"
+			},
+			{
+				"title": "Microsoft Windows Server 2008 R2/Network Administration",
+				"subtitle": "",
+				"address": "Systems Plus College Foundation, Balibago, Angeles City",
+				"date": "April 6, 2013"
+			},
+			{
+				"title": "Software Development and Security",
+				"subtitle": "",
+				"address": "College of Engineering, BSU, Malolos City, Bulacan",
+				"date": "February 11, 2012"
+			},
+			{
+				"title": "Recent Trends on Web Development",
+				"subtitle": "",
+				"address": "College of Engineering, BSU, Malolos City, Bulacan",
+				"date": "November 26, 2011"
+			},
+			{
+				"title": "Capability Building Training/Workshop in Comp. Programming",
+				"subtitle": "",
+				"address": "College of Computing Studies, DHVTSU, Bacolor, Pampanga",
+				"date": "September 7, 2011 – September 9, 2011"
+			},
+			{
+				"title": "Annual Five-Day Faculty Development Seminar/Workshop",
+				"subtitle": "",
+				"address": "Guillermo Hall, DHVTSU, Bacolor, Pampanga",
+				"date": "May 31, 2010 – June 04, 2010"
+			},
+			{
+				"title": "Basic Leadership Training Seminar-Workshop",
+				"subtitle": "Theme: “Excellence in Filipino Leadership”",
+				"address": "Guillermo Hall, DHVTSU, Bacolor, Pampanga",
+				"date": "July 24 & 25, 2008"
+			}
+		],
+		"organizations_and_affiliations": 
+		[
+			{
+				"name": "Association of Information Technology and Engineering Graduate Studies (AITEGS)",
+				"position": "Member",
+				"date": "2011-2013",
+				"address": "Graduate School, BSU, Malolos City, Bulacan"
+			},
+			{
+				"name": "Society of Information Technologists (SITe)",
+				"position": "Board of Director",
+				"date": "2008-2009",
+				"address": "Dept. of Information Technology, DHVTSU, Bacolor, Pampanga"
+			},
+			{
+				"name": "Information Technology Learner’s Network (INTEL Net)",
+				"position": "Board of Director",
+				"date": "2007-2008",
+				"address": "Dept. of Information Technology, DHVTSU, Bacolor, Pampanga"
+			}
+		]
+	}
+}
