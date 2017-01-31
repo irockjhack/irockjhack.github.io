@@ -2,24 +2,84 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>John Michael T. Lagman - Resume</title>
-  <link rel="stylesheet" href="assets/styles/style.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-	<div class="header-top"></div>
+	<div class="header-top">
+		<div class="header-div">
+			<i class="fa fa-file-text-o"></i> Resume
+		</div>
+		<div class="header-div">
+			<i class="fa fa-bar-chart"></i> Portfolio
+		</div>
+		<div class="header-div">
+			<i class="fa fa-camera-retro"></i> Photography
+		</div>
+		<div class="header-div">
+			<i class="fa fa-refresh"></i> Connect
+		</div>
+	</div>
+
 	<div class="container">
-		<div class="header-bg">
-			<img class="img-circle-logo" src="assets/images/img.jpg">
-			<div class="resume-title"> 
-				<p class="resume-name">John Michael T. Lagman</p>
-				<p class="resume-role">Web | Graphics | VoIP | Open-source</p>
+		<div class="container-left">
+			<div class="profile-box">
+				<div class="profile-bg">
+					<img class="img-circle-logo" src="assets/images/img.jpg">
+				</div>
+				<div class="profile-info">
+					John Michael Lagman
+
+				</div>
 			</div>
 		</div>
+		
+		<div class="container-right">
+			<div class="header-bg">
+				<img class="img-circle-logo" src="assets/images/img.jpg">
+				<div class="resume-title"> 
+					<p class="resume-name">John Michael T. Lagman</p>
+					<p class="resume-role">Web | Graphics | VoIP | Open-source</p>
+					<p>Email Address: kcahj_87[at]yahoo[dot]com</p>
+				</div>
+			</div>
+			<BR>
+			<div class="career_information" style="clear: both;">
+				<p>General Objective: To be associated in an institution that will endow a huge advancement on my profession, provide career development and challenge my utmost abilities into excellence as I render and explore my expertise as an IT professional, educator and technology enthusiast with focus on software development, project management and system/network administration.</p>
+
+				<div class="career_expertise">
+					Career Expertise
+					MUSTACHE LOADING HERE!!! STUDY IT
+				</div>
+
+				<div class="employment_history">
+					Employement History
+					MUSTACHE LOADING ALSO + formatting the HTML & CSS 
+				</div>
+			</div>
+
+			<div class="educational_background">
+				Educational background
+				MUSTACHE LOADING HERE or ANGULAR JS
+			</div>
+
+			<div class="other_credentials">
+				This panel includes:
+				 > Awards and achievements
+				 > government issued license or certification
+				 > seminars attended
+				 > organizations and affiliations
+			</div>
+		</div>
+		
+		
 	</div>
 </body>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
-	$.getJSON("assets/data/data.json", function(data) {
+	$.getJSON("https://dl.dropboxusercontent.com/u/90009423/data.json", function(data) {
 		console.log(data);
 	})
 
